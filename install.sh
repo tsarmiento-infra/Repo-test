@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # Official repo packages
 pacman_pkgs=(

@@ -15,6 +15,7 @@ pacman_pkgs=(
         mullvad-vpn
         git
         yay
+        fastfetch
 
 )
 
